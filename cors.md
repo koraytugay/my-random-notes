@@ -1,0 +1,2 @@
+- https://nodeployfriday.com/posts/cors-cyber-attacks/
+- https://security.stackexchange.com/questions/108835
